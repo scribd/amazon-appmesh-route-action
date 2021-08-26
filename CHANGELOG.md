@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.3...v1.0.4) (2021-08-26)
+
+
+### Bug Fixes
+
+* **deps:** bump @actions/core from 1.4.0 to 1.5.0 ([ea2c90a](https://github.com/scribd/amazon-appmesh-route-action/commit/ea2c90ac93b578e35bb3f7cf7874901deec5ad5a))
+
 ## [1.0.3](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.2...v1.0.3) (2021-08-26)
 
 
