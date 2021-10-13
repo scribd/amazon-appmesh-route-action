@@ -1,3 +1,11 @@
+## [1.0.18](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.17...v1.0.18) (2021-10-13)
+
+
+### Bug Fixes
+
+* **deps:** release dep upgrades from alpha ([597127a](https://github.com/scribd/amazon-appmesh-route-action/commit/597127accd116d9e4ee851c3797655767cce44d9))
+* **deps:** yarn upgrade ([cb69393](https://github.com/scribd/amazon-appmesh-route-action/commit/cb69393949e794d772def86ff53f5fd3a81eeffa))
+
 ## [1.0.17](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.16...v1.0.17) (2021-10-12)
 
 
