@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.18...v1.0.19) (2021-10-13)
+
+
+### Bug Fixes
+
+* **deps:** bump @aws-sdk/client-app-mesh from 3.36.0 to 3.36.1 ([28f6426](https://github.com/scribd/amazon-appmesh-route-action/commit/28f6426aeb76b507bbb74a78a50c78fd11bf2d3a))
+
 ## [1.0.18](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.17...v1.0.18) (2021-10-13)
 
 
