@@ -1,3 +1,10 @@
+## [1.0.26-alpha.2](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.26-alpha.1...v1.0.26-alpha.2) (2022-01-28)
+
+
+### Bug Fixes
+
+* if cannot parse err, just print ([fe5d070](https://github.com/scribd/amazon-appmesh-route-action/commit/fe5d07032f1d33cf8ff4bee5891b98ae1de66623))
+
 ## [1.0.26-alpha.1](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.25...v1.0.26-alpha.1) (2022-01-11)
 
 
