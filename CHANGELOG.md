@@ -1,3 +1,10 @@
+## [1.0.29](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.28...v1.0.29) (2022-02-08)
+
+
+### Reverts
+
+* Revert "ci: fix: reset alpha branch on release" ([7a064ef](https://github.com/scribd/amazon-appmesh-route-action/commit/7a064ef82e6190a262911fff853478e92ca19733))
+
 ## [1.0.28](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.27...v1.0.28) (2022-02-08)
 
 
