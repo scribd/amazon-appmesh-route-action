@@ -1,3 +1,10 @@
+## [1.0.30](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.29...v1.0.30) (2022-02-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @aws-sdk/util-waiter from 3.49.0 to 3.50.0 ([d14135b](https://github.com/scribd/amazon-appmesh-route-action/commit/d14135b1ce3b3a58752333f728d62812847a26c9))
+
 ## [1.0.29](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.28...v1.0.29) (2022-02-08)
 
 
