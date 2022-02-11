@@ -1,3 +1,10 @@
+## [1.0.32](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.31...v1.0.32) (2022-02-11)
+
+
+### Bug Fixes
+
+* ci: new_release_channel is undefined when default channel is published ([0b084b6](https://github.com/scribd/amazon-appmesh-route-action/commit/0b084b67f86be133b9c21f345d9cfbd605d3fe86))
+
 ## [1.0.31](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.30...v1.0.31) (2022-02-11)
 
 
