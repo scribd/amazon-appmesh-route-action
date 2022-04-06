@@ -1,3 +1,10 @@
+## [1.0.36](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.35...v1.0.36) (2022-04-06)
+
+
+### Bug Fixes
+
+* **deps:** bump yaml from 1.10.2 to 2.0.0 ([8af84b7](https://github.com/scribd/amazon-appmesh-route-action/commit/8af84b7ba0297efaf5e9f95a4e3ec786a82b9047))
+
 ## [1.0.35](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.34...v1.0.35) (2022-03-30)
 
 
