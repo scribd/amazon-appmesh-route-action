@@ -1,3 +1,10 @@
+## [1.0.46](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.45...v1.0.46) (2022-07-13)
+
+
+### Bug Fixes
+
+* **deps:** yarn upgrade 2022-06-08 ([f512c32](https://github.com/scribd/amazon-appmesh-route-action/commit/f512c32662966405b3b073ac38698a2d3359e757))
+
 ## [1.0.45](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.44...v1.0.45) (2022-06-08)
 
 
