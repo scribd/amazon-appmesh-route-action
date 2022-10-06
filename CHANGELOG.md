@@ -1,3 +1,11 @@
+## [1.0.56](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.55...v1.0.56) (2022-10-06)
+
+
+### Bug Fixes
+
+* **deps:** pnpm update 20221004 ([c0cdc32](https://github.com/scribd/amazon-appmesh-route-action/commit/c0cdc321930c288b3b10e473545d09c78856a2c5))
+* **deps:** pnpm upgrade 20220907 ([7a36dd3](https://github.com/scribd/amazon-appmesh-route-action/commit/7a36dd33610c504a2b207cf74da34e2f0dd80e5f))
+
 ## [1.0.55](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.54...v1.0.55) (2022-09-07)
 
 
