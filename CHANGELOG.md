@@ -1,3 +1,10 @@
+## [1.0.59-alpha.1](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.58...v1.0.59-alpha.1) (2023-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update aws sdk ([ecea73f](https://github.com/scribd/amazon-appmesh-route-action/commit/ecea73f805326f631e824f8a2a3ad5aaed2f71fe))
+
 ## [1.0.58](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.57...v1.0.58) (2023-03-30)
 
 
