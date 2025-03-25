@@ -1,3 +1,10 @@
+## [1.0.59](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.58...v1.0.59) (2025-03-25)
+
+
+### Bug Fixes
+
+* DEVPLAT-3294 Update github actions due to ubuntu-20.04 deprecation ([eb5c6a9](https://github.com/scribd/amazon-appmesh-route-action/commit/eb5c6a9228cddd48f5b1f1c1b04e8b1e2703caeb))
+
 ## [1.0.58](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.57...v1.0.58) (2023-03-30)
 
 
