@@ -1,3 +1,11 @@
+## [1.0.60](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.59...v1.0.60) (2026-05-06)
+
+
+### Bug Fixes
+
+* bump semantic_version to 24 for Node.js 24 compatibility [DEVPLAT-7373] ([0668e36](https://github.com/scribd/amazon-appmesh-route-action/commit/0668e36757fba5b0cf2efa7d9e0870b980edfecd))
+* update extra_plugins to v24-compatible versions ([608c386](https://github.com/scribd/amazon-appmesh-route-action/commit/608c38612e448f8e2e5c08fd8fa405a4bcd9d02a))
+
 ## [1.0.59](https://github.com/scribd/amazon-appmesh-route-action/compare/v1.0.58...v1.0.59) (2025-03-25)
 
 
